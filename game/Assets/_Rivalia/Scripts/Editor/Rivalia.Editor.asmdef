@@ -1,0 +1,8 @@
+{
+  "name": "Rivalia.Editor",
+  "rootNamespace": "Rivalia.EditorTools",
+  "references": [ "Rivalia.Game", "Rivalia.Core" ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "autoReferenced": true
+}

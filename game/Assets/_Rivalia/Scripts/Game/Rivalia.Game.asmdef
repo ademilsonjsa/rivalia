@@ -1,0 +1,16 @@
+{
+  "name": "Rivalia.Game",
+  "rootNamespace": "Rivalia.Game",
+  "references": [
+    "Rivalia.Core",
+    "Unity.InputSystem",
+    "Unity.Cinemachine",
+    "Unity.AI.Navigation",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "noEngineReferences": false
+}
