@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rivalia.Core", "Rivalia.Core\Rivalia.Core.csproj", "{3ACD3171-25DB-4EC6-85FC-4FAEB91EEA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rivalia.Core.Tests", "Rivalia.Core.Tests\Rivalia.Core.Tests.csproj", "{FFC5C6DF-E9BC-4B33-84EA-616C85BA5F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ACD3171-25DB-4EC6-85FC-4FAEB91EEA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACD3171-25DB-4EC6-85FC-4FAEB91EEA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACD3171-25DB-4EC6-85FC-4FAEB91EEA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACD3171-25DB-4EC6-85FC-4FAEB91EEA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC5C6DF-E9BC-4B33-84EA-616C85BA5F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC5C6DF-E9BC-4B33-84EA-616C85BA5F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC5C6DF-E9BC-4B33-84EA-616C85BA5F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC5C6DF-E9BC-4B33-84EA-616C85BA5F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

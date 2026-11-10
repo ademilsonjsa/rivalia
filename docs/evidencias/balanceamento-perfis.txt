@@ -1,0 +1,6 @@
+200 partidas só de bots (dificuldade Normal), empates: 0
+Economic      venceu  38 de 160 partidas em que jogou ( 23.8%)
+Defensive     venceu  60 de 160 partidas em que jogou ( 37.5%)
+Aggressive    venceu  19 de 160 partidas em que jogou ( 11.9%)
+Expansionist  venceu  38 de 160 partidas em que jogou ( 23.8%)
+Balanced      venceu  45 de 160 partidas em que jogou ( 28.1%)
